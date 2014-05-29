@@ -1,0 +1,241 @@
+Proof	Picture	Message
+DexQuery.001.bmp	BeltsSupine.bmp	***  PREPARING TO START THE TASK  ***\nVerify that you are lying down with your seat belts fastened.
+DexQuery.002.bmp	BeltsSeated.bmp	***  PREPARING TO START THE TASK  ***\nVerify that you are seated with your seat belts fastened.
+DexQuery.003.bmp	Offset.bmp	*** Centered Grip Test ***\nRelease manipulandum and press OK.
+DexQuery.004.bmp	REMOVE_HAND.bmp	*****     PREPARING TO START     *****\nRemove hand from the manipulandum and press <OK> to start.
+DexQuery.005.bmp	PlaceMass.bmp	*********  TASK TERMINATED  *********\nPlace the maniplandum in the empty cradle.
+DexQuery.006.bmp	ok.bmp	Acquisition ended.
+DexQuery.007.bmp	10\	Alignment done. Will check 20\
+DexQuery.008.bmp	ok.bmp	Block terminated normally.
+DexQuery.009.bmp	OpenRetainer.bmp	Deploy the retainer on the target frame.
+DexQuery.010.bmp	headphones.bmp	Don the headphones and connect to the GRIP hardware. Press <OK> to continue.
+DexQuery.011.bmp	RetainerManip.bmp	Ensure that manipulandum is locked in the retainer. Remove hand during sensors offsets.
+DexQuery.012.bmp	CloseRetainer.bmp	Fold down the retainer and lock in place.
+DexQuery.013.bmp	info.bmp	Force/torque baselining done.
+DexQuery.014.bmp	ok.bmp	If no other message; centered grip detected.
+DexQuery.015.bmp	CalibrateSeated.bmp	Install the target box for SEATED operation.
+DexQuery.016.bmp	CalibrateSupine.bmp	Install the target box for SUPINE operation.
+DexQuery.017.bmp	BarLeft.bmp	Make sure that the target bar\nis in the LEFT side position.
+DexQuery.018.bmp	needpic.bmp	Mass selection tests.
+DexQuery.019.bmp	RetainerManip.bmp	Move the manipulandum to the retainer on the target frame and lock in place. Close the locker door on the chair.
+DexQuery.020.bmp	Coef_frict.bmp	On this trial you will squeeze FIRMLY.
+DexQuery.021.bmp	Coef_frict.bmp	On this trial you will squeeze LIGHTLY.
+DexQuery.022.bmp	Coef_frict.bmp	On this trial you will squeeze MODERATELY.
+DexQuery.023.bmp	PlaceMass.bmp	Place in mass any cradle. Leave manipulandum and mass in cradle.
+DexQuery.024.bmp	black.bmp	Place manipulandum visibly and confirm
+DexQuery.025.bmp	HandsOffCradle.bmp	Place the manipulandum in any cradle and lock in place. Remove hand and press <OK> to start.
+DexQuery.026.bmp	ManipInChair.bmp	Place the manipulandum in the holder as shown. Check that locker door is fully open and that the 'Visible' indicator is green.
+DexQuery.027.bmp	Unfolded.bmp	Place the target bar in the RIGHT position (Socket S) and open the tapping surfaces.
+DexQuery.028.bmp	Folded.bmp	Place the target bar in the RIGHT position (Socket S) with tapping surfaces closed.
+DexQuery.029.bmp	BarLeft.bmp	Place the target bar in the left-hand position with tapping surfaces closed.
+DexQuery.030.bmp	BarLeft.bmp	Place the target bar in the left-side position with tapping surfaces folded.
+DexQuery.031.bmp	Folded.bmp	Place the target bar in the right-hand position (Socket 'S') with tapping surfaces closed.
+DexQuery.032.bmp	Folded.bmp	Place the target bar in the right-side position; socket 'S'; with tapping surfaces folded.
+DexQuery.033.bmp	RetainerManip.bmp	Position manipulandum in retainer and release it
+DexQuery.034.bmp	hold and release the\ntarget areas as requested on the\ncalibration screen.	Press\
+DexQuery.035.bmp	ok.bmp	Protocol Terminated.
+DexQuery.036.bmp	ok.bmp	Protocol Terminated.\nPress <OK> | <Back> | <Logout>.
+DexQuery.037.bmp	confirm.bmp	Ready to record for 30.00 seconds. Press <OK> to start.
+DexQuery.038.bmp	confirm.bmp	Ready to record for 5.00 seconds. Press <OK> to start.
+DexQuery.039.bmp	Offset.bmp	Release manipulandum and press OK.
+DexQuery.040.bmp	REMOVE_HAND.bmp	Remove hand and press <OK> to continue.
+DexQuery.041.bmp	InHand.bmp	Remove manipulandum from retainer.
+DexQuery.042.bmp	Offset.bmp	Slip Test - Release manipulandum and press OK.
+DexQuery.043.bmp	InHand.bmp	TASK PREVIEW (1/3): (Don't start!)\nYou will first pick up the manipulandum with thumb and index finger centered.
+DexQuery.044.bmp	InHand.bmp	TASK PREVIEW (1/4): (Don't start!)\nYou will first pick up the manipulandum with thumb and index finger centered.
+DexQuery.045.bmp	coef_frict.bmp	TASK PREVIEW (1/4): (Don't start!)\nYou will first pinch the manipulandum at the center between thumb and forefinger.
+DexQuery.046.bmp	InHand.bmp	TASK PREVIEW (1/5): (Don't start!)\nYou will first pick up the manipulandum with thumb and index finger centered.
+DexQuery.047.bmp	InHand.bmp	TASK PREVIEW (1/6): (Don't start!)\nYou will first pick up the manipulandum with thumb and index finger centered.
+DexQuery.048.bmp	MvToBlkV.bmp	TASK PREVIEW (2/3): (Don't start!)\nYou will move the manipulandum to the blinking target.
+DexQuery.049.bmp	coef_frict.bmp	TASK PREVIEW (2/4): (Don't start!)\nSqueeze according to the instructions that you will receive (firmly; moderately; lightly).
+DexQuery.050.bmp	MvToBlkV.bmp	TASK PREVIEW (2/4): (Don't start!)\nYou will move to the blinking target.
+DexQuery.051.bmp	MvToBlkH.bmp	TASK PREVIEW (2/5): (Don't start!)\nYou will place the manipulandum to the right of the blinking target.
+DexQuery.052.bmp	MvToBlkV.bmp	TASK PREVIEW (2/5): (Don't start!)\nYou will place the manipulandum to the right of the blinking target.
+DexQuery.053.bmp	MvToBlkH.bmp	TASK PREVIEW (2/6): (Don't start!)\nTo start; you will move to the target that is blinking.
+DexQuery.054.bmp	MvToBlkV.bmp	TASK PREVIEW (2/6): (Don't start!)\nTo start; you will move to the target that is blinking.
+DexQuery.055.bmp	Collision.bmp	TASK PREVIEW (3/3): (Don't start!)\nYou will then tap up or down according to the beeps and targets and return to the center.
+DexQuery.056.bmp	coef_frict_osc.bmp	TASK PREVIEW (3/4): (Don't start!)\nWhen you hear the beep; rub the fingers up and down on the manipulandum.
+DexQuery.057.bmp	OscillateV.bmp	TASK PREVIEW (3/4): (Don't start!)\nYou will then oscillate between targets; one full cycle per beep.
+DexQuery.058.bmp	TargetedH.bmp	TASK PREVIEW (3/5): (Don't start!)\nYou will move quickly and accurately to the right of each lighted target.
+DexQuery.059.bmp	TargetedV.bmp	TASK PREVIEW (3/5): (Don't start!)\nYou will move quickly and accurately to the right of each lighted target.
+DexQuery.060.bmp	MvToBlkH.bmp	TASK PREVIEW (3/6): (Don't start!)\nPlace the manipulandum to the right of the target box and align the thumb with each target.
+DexQuery.061.bmp	MvToBlkV.bmp	TASK PREVIEW (3/6): (Don't start!)\nPlace the manipulandum to the right of the target mast and align the thumb with each target.
+DexQuery.062.bmp	OscillateV.bmp	TASK PREVIEW (4/4): (Don't start!)\nWhen the beeps will stop; you will continue to oscillate.
+DexQuery.063.bmp	rub.bmp	TASK PREVIEW (4/4): (Don't start!)\nYou will rub for 15 seconds. Move from center to edge and back. Try to maintain pinch force.
+DexQuery.064.bmp	TargetedH.bmp	TASK PREVIEW (4/5): (Don't start!)\nTargets will be one of the 4 currently lit targets.
+DexQuery.065.bmp	TargetedV.bmp	TASK PREVIEW (4/5): (Don't start!)\nTargets will be one of the 4 currently lit targets.
+DexQuery.066.bmp	DiscreteH.bmp	TASK PREVIEW (4/6): (Don't start!)\nOn each beep; you will move quickly and accurately to the other lit target.
+DexQuery.067.bmp	DiscreteV.bmp	TASK PREVIEW (4/6): (Don't start!)\nOn each beep; you will move quickly and accurately to the other lit target.
+DexQuery.068.bmp	MvToBlkH.bmp	TASK PREVIEW (5/5): (Don't start!)\nBe sure to hold the manipuladum upright and to the right of each target.
+DexQuery.069.bmp	MvToBlkV.bmp	TASK PREVIEW (5/5): (Don't start!)\nBe sure to hold the manipuladum upright and to the right of each target.
+DexQuery.070.bmp	EyesOpenClosed.bmp	TASK PREVIEW (5/6): (Don't start!)\nBefore each; you will be instructed to perform the movements with your eyes OPEN or CLOSED.
+DexQuery.071.bmp	alert.bmp	TASK PREVIEW (6/6): (Don't start!)\nRemember to wait for each beep and come to a full stop at each target.
+DexQuery.072.bmp	BeltsSeated.bmp	Take a seat. Attach the waist and shoulder straps and attach the wrist box to your right wrist.
+DexQuery.073.bmp	info.bmp	Test complete. If you did not hear the beeps; check the hardware and then repeat this task.
+DexQuery.074.bmp	ok.bmp	Test ended.
+DexQuery.075.bmp	ok.bmp	Trial terminated successfully.\n\nPress <OK> to continue ...
+DexQuery.076.bmp	needpic.bmp	Verify that all targets are OFF.
+DexQuery.077.bmp	needpic.bmp	Verify that all targets are ON.
+DexQuery.078.bmp	MvToBlkH.bmp	Verify that target is OFF again.\n(Horizontal Target 1)
+DexQuery.079.bmp	MvToBlkH.bmp	Verify that target is OFF again.\n(Horizontal Target 10)
+DexQuery.080.bmp	MvToBlkH.bmp	Verify that target is OFF again.\n(Horizontal Target 2)
+DexQuery.081.bmp	MvToBlkH.bmp	Verify that target is OFF again.\n(Horizontal Target 3)
+DexQuery.082.bmp	MvToBlkH.bmp	Verify that target is OFF again.\n(Horizontal Target 4)
+DexQuery.083.bmp	MvToBlkH.bmp	Verify that target is OFF again.\n(Horizontal Target 5)
+DexQuery.084.bmp	MvToBlkH.bmp	Verify that target is OFF again.\n(Horizontal Target 6)
+DexQuery.085.bmp	MvToBlkH.bmp	Verify that target is OFF again.\n(Horizontal Target 7)
+DexQuery.086.bmp	MvToBlkH.bmp	Verify that target is OFF again.\n(Horizontal Target 8)
+DexQuery.087.bmp	MvToBlkH.bmp	Verify that target is OFF again.\n(Horizontal Target 9)
+DexQuery.088.bmp	MvToBlkV.bmp	Verify that target is OFF again.\n(Vertical Target 1)
+DexQuery.089.bmp	MvToBlkV.bmp	Verify that target is OFF again.\n(Vertical Target 10)
+DexQuery.090.bmp	MvToBlkV.bmp	Verify that target is OFF again.\n(Vertical Target 11)
+DexQuery.091.bmp	MvToBlkV.bmp	Verify that target is OFF again.\n(Vertical Target 12)
+DexQuery.092.bmp	MvToBlkV.bmp	Verify that target is OFF again.\n(Vertical Target 13)
+DexQuery.093.bmp	MvToBlkV.bmp	Verify that target is OFF again.\n(Vertical Target 2)
+DexQuery.094.bmp	MvToBlkV.bmp	Verify that target is OFF again.\n(Vertical Target 3)
+DexQuery.095.bmp	MvToBlkV.bmp	Verify that target is OFF again.\n(Vertical Target 4)
+DexQuery.096.bmp	MvToBlkV.bmp	Verify that target is OFF again.\n(Vertical Target 5)
+DexQuery.097.bmp	MvToBlkV.bmp	Verify that target is OFF again.\n(Vertical Target 6)
+DexQuery.098.bmp	MvToBlkV.bmp	Verify that target is OFF again.\n(Vertical Target 7)
+DexQuery.099.bmp	MvToBlkV.bmp	Verify that target is OFF again.\n(Vertical Target 8)
+DexQuery.100.bmp	MvToBlkV.bmp	Verify that target is OFF again.\n(Vertical Target 9)
+DexQuery.101.bmp	MvToBlkH.bmp	Verify that target is ON.\n(Horizontal Target 1)
+DexQuery.102.bmp	MvToBlkH.bmp	Verify that target is ON.\n(Horizontal Target 10)
+DexQuery.103.bmp	MvToBlkH.bmp	Verify that target is ON.\n(Horizontal Target 2)
+DexQuery.104.bmp	MvToBlkH.bmp	Verify that target is ON.\n(Horizontal Target 3)
+DexQuery.105.bmp	MvToBlkH.bmp	Verify that target is ON.\n(Horizontal Target 4)
+DexQuery.106.bmp	MvToBlkH.bmp	Verify that target is ON.\n(Horizontal Target 5)
+DexQuery.107.bmp	MvToBlkH.bmp	Verify that target is ON.\n(Horizontal Target 6)
+DexQuery.108.bmp	MvToBlkH.bmp	Verify that target is ON.\n(Horizontal Target 7)
+DexQuery.109.bmp	MvToBlkH.bmp	Verify that target is ON.\n(Horizontal Target 8)
+DexQuery.110.bmp	MvToBlkH.bmp	Verify that target is ON.\n(Horizontal Target 9)
+DexQuery.111.bmp	MvToBlkV.bmp	Verify that target is ON.\n(Vertical Target 1)
+DexQuery.112.bmp	MvToBlkV.bmp	Verify that target is ON.\n(Vertical Target 10)
+DexQuery.113.bmp	MvToBlkV.bmp	Verify that target is ON.\n(Vertical Target 11)
+DexQuery.114.bmp	MvToBlkV.bmp	Verify that target is ON.\n(Vertical Target 12)
+DexQuery.115.bmp	MvToBlkV.bmp	Verify that target is ON.\n(Vertical Target 13)
+DexQuery.116.bmp	MvToBlkV.bmp	Verify that target is ON.\n(Vertical Target 2)
+DexQuery.117.bmp	MvToBlkV.bmp	Verify that target is ON.\n(Vertical Target 3)
+DexQuery.118.bmp	MvToBlkV.bmp	Verify that target is ON.\n(Vertical Target 4)
+DexQuery.119.bmp	MvToBlkV.bmp	Verify that target is ON.\n(Vertical Target 5)
+DexQuery.120.bmp	MvToBlkV.bmp	Verify that target is ON.\n(Vertical Target 6)
+DexQuery.121.bmp	MvToBlkV.bmp	Verify that target is ON.\n(Vertical Target 7)
+DexQuery.122.bmp	MvToBlkV.bmp	Verify that target is ON.\n(Vertical Target 8)
+DexQuery.123.bmp	MvToBlkV.bmp	Verify that target is ON.\n(Vertical Target 9)
+DexQuery.124.bmp	info.bmp	You should have the heaviest mass in your hand.
+DexQuery.125.bmp	info.bmp	You should have the lightest mass in your hand.
+DexQuery.126.bmp	info.bmp	You should have the medium mass in your hand.
+DexQuery.127.bmp	EyesClosed.bmp	You will perform the next set of discrete movements with eyes CLOSED. (But don't close them yet!).
+DexQuery.128.bmp	Eyesopen.bmp	You will perform the next set of discrete movements with eyes OPEN.
+
+DexState.001.bmp	MvToBlkH.bmp	
+DexState.002.bmp	MvToBlkV.bmp	
+DexState.003.bmp	blank.bmp	
+DexState.004.bmp	volume.bmp	A series of beeps is being played for 10 seconds. Adjust the volume until you hear them clearly.
+DexState.005.bmp	wait.bmp	Acquiring baseline ...
+DexState.006.bmp	wait.bmp	Acquiring baseline data. Please wait.
+DexState.007.bmp	wait.bmp	Acquiring baseline. Please wait ...
+DexState.008.bmp	wait.bmp	Acquiring offsets ...
+DexState.009.bmp	working.bmp	Acquiring.
+DexState.010.bmp	EyesClosed.bmp	CLOSE your eyes and start point-to-point movements.
+DexState.011.bmp	wait.bmp	Check visibility ...
+DexState.012.bmp	PrgBar5.bmp	Checking collision forces ...
+DexState.013.bmp	working.bmp	Checking collision forces ...
+DexState.014.bmp	wait.bmp	Checking data ...
+DexState.015.bmp	working.bmp	Checking data ...
+DexState.016.bmp	wait.bmp	Checking field of view ...
+DexState.017.bmp	PrgBar7.bmp	Checking for early starts ...
+DexState.018.bmp	PrgBar2.bmp	Checking for movement ...
+DexState.019.bmp	PrgBar3.bmp	Checking for movement ...
+DexState.020.bmp	PrgBar5.bmp	Checking for movement ...
+DexState.021.bmp	PrgBar5.bmp	Checking for number of movements ...
+DexState.022.bmp	wait.bmp	Checking hardware configuration ...
+DexState.023.bmp	PrgBar6.bmp	Checking number of oscillations ...
+DexState.024.bmp	wait.bmp	Checking tracker alignment ...
+DexState.025.bmp	wait.bmp	Checking tracker placement ...
+DexState.026.bmp	PrgBar0.bmp	Checking visibility ...
+DexState.027.bmp	working.bmp	Continue oscillating movements.\nMaintain the same rhythm.
+DexState.028.bmp	ok.bmp	Force offsets nullified.
+DexState.029.bmp	PrgBar2.bmp	Keep rubbing. Need more slips.
+DexState.030.bmp	PrgBar4.bmp	Keep rubbing. Need more slips.
+DexState.031.bmp	PrgBar6.bmp	Keep rubbing. Need more slips.
+DexState.032.bmp	PrgBar8.bmp	Keep rubbing. Need more slips.
+DexState.033.bmp	PrgBarF.bmp	Keep rubbing. Need more slips.
+DexState.034.bmp	working.bmp	Maintian grip.
+DexState.035.bmp	working.bmp	Move quickly to each lighted target. Don't start early. Stop at each target.
+DexState.036.bmp	MvToBlkH.bmp	Move to blinking target.\n(Horizontal Target 0)
+DexState.037.bmp	MvToBlkH.bmp	Move to blinking target.\n(Horizontal Target 1)
+DexState.038.bmp	MvToBlkH.bmp	Move to blinking target.\n(Horizontal Target 2)
+DexState.039.bmp	MvToBlkH.bmp	Move to blinking target.\n(Horizontal Target 3)
+DexState.040.bmp	MvToBlkH.bmp	Move to blinking target.\n(Horizontal Target 4)
+DexState.041.bmp	MvToBlkH.bmp	Move to blinking target.\n(Horizontal Target 5)
+DexState.042.bmp	MvToBlkH.bmp	Move to blinking target.\n(Horizontal Target 6)
+DexState.043.bmp	MvToBlkH.bmp	Move to blinking target.\n(Horizontal Target 7)
+DexState.044.bmp	MvToBlkH.bmp	Move to blinking target.\n(Horizontal Target 8)
+DexState.045.bmp	MvToBlkH.bmp	Move to blinking target.\n(Horizontal Target 9)
+DexState.046.bmp	MvToBlkV.bmp	Move to blinking target.\n(Vertical Target 0)
+DexState.047.bmp	MvToBlkV.bmp	Move to blinking target.\n(Vertical Target 1)
+DexState.048.bmp	MvToBlkV.bmp	Move to blinking target.\n(Vertical Target 10)
+DexState.049.bmp	MvToBlkV.bmp	Move to blinking target.\n(Vertical Target 11)
+DexState.050.bmp	MvToBlkV.bmp	Move to blinking target.\n(Vertical Target 12)
+DexState.051.bmp	MvToBlkV.bmp	Move to blinking target.\n(Vertical Target 2)
+DexState.052.bmp	MvToBlkV.bmp	Move to blinking target.\n(Vertical Target 3)
+DexState.053.bmp	MvToBlkV.bmp	Move to blinking target.\n(Vertical Target 4)
+DexState.054.bmp	MvToBlkV.bmp	Move to blinking target.\n(Vertical Target 5)
+DexState.055.bmp	MvToBlkV.bmp	Move to blinking target.\n(Vertical Target 6)
+DexState.056.bmp	MvToBlkV.bmp	Move to blinking target.\n(Vertical Target 7)
+DexState.057.bmp	MvToBlkV.bmp	Move to blinking target.\n(Vertical Target 8)
+DexState.058.bmp	MvToBlkV.bmp	Move to blinking target.\n(Vertical Target 9)
+DexState.059.bmp	WaitSubjectReady.bmp	Now pinch OFF center to desired force (see LEDs).
+DexState.060.bmp	WaitSubjectReady.bmp	Now pinch in the center to desired force (see LEDs).
+DexState.061.bmp	WaitSubjectReady.bmp	Now pull until slip.
+DexState.062.bmp	wait.bmp	Nullifying force offsets. Please wait.
+DexState.063.bmp	wait.bmp	Performing alignment ...
+DexState.064.bmp	working.bmp	Pick up the manipulandum with the mass. Adjust until the grip is centered.
+DexState.065.bmp	Coef_frict.bmp	Pinch the manipulandum FIRMLY at the center between thumb and index finger.
+DexState.066.bmp	Coef_frict.bmp	Pinch the manipulandum LIGHTLY at the center between thumb and index finger.
+DexState.067.bmp	Coef_frict.bmp	Pinch the manipulandum MODERATELY at the center between thumb and index finger.
+DexState.068.bmp	PrgBarF.bmp	Post hoc tests completed.
+DexState.069.bmp	wait.bmp	Preparing for force offset acquisition ...
+DexState.070.bmp	wait.bmp	Processing data ...
+DexState.071.bmp	wait.bmp	Saving data ...
+DexState.072.bmp	rub.bmp	Squeeze FIRMLY and rub up and down for 15 seconds.
+DexState.073.bmp	rub.bmp	Squeeze LIGHTLY and rub up and down for 15 seconds.
+DexState.074.bmp	rub.bmp	Squeeze MODERATELY and rub up and down for 15 seconds.
+DexState.075.bmp	working.bmp	Start oscillating movements.\nOne cycle per beep.
+DexState.076.bmp	Eyesopen.bmp	Start point-to-point movements with eyes OPEN.
+DexState.077.bmp	PrgBarF.bmp	Success!
+DexState.078.bmp	working.bmp	Tap upward or downward according to the beep and the lighted targets.
+DexState.079.bmp	working.bmp	Trial Started. Move to blinking target.
+DexState.080.bmp	working.bmp	Trial started ...
+DexState.081.bmp	ok.bmp	Visibility OK.
+
+DexAlert.001.bmp	MvToBlkH.bmp	
+DexAlert.002.bmp	MvToBlkV.bmp	
+DexAlert.003.bmp	blank.bmp	
+DexAlert.004.bmp	volume.bmp	A series of beeps is being played for 10 seconds. Adjust the volume until you hear them clearly.
+DexAlert.005.bmp	wait.bmp	Acquiring baseline ...
+DexAlert.006.bmp	wait.bmp	Acquiring baseline data. Please wait.
+DexAlert.007.bmp	wait.bmp	Acquiring baseline. Please wait ...
+DexAlert.008.bmp	wait.bmp	Acquiring offsets ...
+DexAlert.009.bmp	working.bmp	Acquiring.
+DexAlert.010.bmp	EyesClosed.bmp	CLOSE your eyes and start point-to-point movements.
+DexAlert.011.bmp	wait.bmp	Check visibility ...
+DexAlert.012.bmp	PrgBar5.bmp	Checking collision forces ...
+DexAlert.013.bmp	working.bmp	Checking collision forces ...
+DexAlert.014.bmp	wait.bmp	Checking data ...
+DexAlert.015.bmp	working.bmp	Checking data ...
+DexAlert.016.bmp	wait.bmp	Checking field of view ...
+DexAlert.017.bmp	PrgBar7.bmp	Checking for early starts ...
+DexAlert.018.bmp	PrgBar2.bmp	Checking for movement ...
+DexAlert.019.bmp	PrgBar3.bmp	Checking for movement ...
+DexAlert.020.bmp	PrgBar5.bmp	Checking for movement ...
+DexAlert.021.bmp	PrgBar5.bmp	Checking for number of movements ...
+DexAlert.022.bmp	wait.bmp	Checking hardware configuration ...
+DexAlert.023.bmp	PrgBar6.bmp	Checking number of oscillations ...
+DexAlert.024.bmp	wait.bmp	Checking tracker alignment ...
+DexAlert.025.bmp	wait.bmp	Checking tracker placement ...
+DexAlert.026.bmp	PrgBar0.bmp	Checking visibility ...
+DexAlert.027.bmp	working.bmp	Continue oscillating movements.\nMaintain the same rhythm.
+DexAlert.028.bmp	ok.bmp	Force offsets nullified.
+
