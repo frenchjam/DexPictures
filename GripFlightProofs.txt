@@ -5,14 +5,14 @@ DexQuery.003.bmp	Offset.bmp	*** Centered Grip Test ***\nRelease manipulandum and
 DexQuery.004.bmp	REMOVE_HAND.bmp	*****     PREPARING TO START     *****\nRemove hand from the manipulandum and press <OK> to start.
 DexQuery.005.bmp	PlaceMass.bmp	*********  TASK TERMINATED  *********\nPlace the maniplandum in the empty cradle.
 DexQuery.006.bmp	ok.bmp	Acquisition ended.
-DexQuery.007.bmp	10\	Alignment done. Will check 20\
+DexQuery.007.bmp	info.bmp	Alignment done. Will check 20,10,5,3,2,1mm sequence
 DexQuery.008.bmp	ok.bmp	Block terminated normally.
 DexQuery.009.bmp	OpenRetainer.bmp	Deploy the retainer on the target frame.
 DexQuery.010.bmp	headphones.bmp	Don the headphones and connect to the GRIP hardware. Press <OK> to continue.
 DexQuery.011.bmp	RetainerManip.bmp	Ensure that manipulandum is locked in the retainer. Remove hand during sensors offsets.
 DexQuery.012.bmp	CloseRetainer.bmp	Fold down the retainer and lock in place.
 DexQuery.013.bmp	info.bmp	Force/torque baselining done.
-DexQuery.014.bmp	ok.bmp	If no other message; centered grip detected.
+DexQuery.014.bmp	ok.bmp	If no other message, centered grip detected.
 DexQuery.015.bmp	CalibrateSeated.bmp	Install the target box for SEATED operation.
 DexQuery.016.bmp	CalibrateSupine.bmp	Install the target box for SUPINE operation.
 DexQuery.017.bmp	BarLeft.bmp	Make sure that the target bar\nis in the LEFT side position.
@@ -30,9 +30,9 @@ DexQuery.028.bmp	Folded.bmp	Place the target bar in the RIGHT position (Socket S
 DexQuery.029.bmp	BarLeft.bmp	Place the target bar in the left-hand position with tapping surfaces closed.
 DexQuery.030.bmp	BarLeft.bmp	Place the target bar in the left-side position with tapping surfaces folded.
 DexQuery.031.bmp	Folded.bmp	Place the target bar in the right-hand position (Socket 'S') with tapping surfaces closed.
-DexQuery.032.bmp	Folded.bmp	Place the target bar in the right-side position; socket 'S'; with tapping surfaces folded.
+DexQuery.032.bmp	Folded.bmp	Place the target bar in the right-side position, socket 'S', with tapping surfaces folded.
 DexQuery.033.bmp	RetainerManip.bmp	Position manipulandum in retainer and release it
-DexQuery.034.bmp	hold and release the\ntarget areas as requested on the\ncalibration screen.	Press\
+DexQuery.034.bmp	info.bmp	Press, hold and release the\ntarget areas as requested on the\ncalibration screen.
 DexQuery.035.bmp	ok.bmp	Protocol Terminated.
 DexQuery.036.bmp	ok.bmp	Protocol Terminated.\nPress <OK> | <Back> | <Logout>.
 DexQuery.037.bmp	confirm.bmp	Ready to record for 30.00 seconds. Press <OK> to start.
@@ -47,31 +47,31 @@ DexQuery.045.bmp	coef_frict.bmp	TASK PREVIEW (1/4): (Don't start!)\nYou will fir
 DexQuery.046.bmp	InHand.bmp	TASK PREVIEW (1/5): (Don't start!)\nYou will first pick up the manipulandum with thumb and index finger centered.
 DexQuery.047.bmp	InHand.bmp	TASK PREVIEW (1/6): (Don't start!)\nYou will first pick up the manipulandum with thumb and index finger centered.
 DexQuery.048.bmp	MvToBlkV.bmp	TASK PREVIEW (2/3): (Don't start!)\nYou will move the manipulandum to the blinking target.
-DexQuery.049.bmp	coef_frict.bmp	TASK PREVIEW (2/4): (Don't start!)\nSqueeze according to the instructions that you will receive (firmly; moderately; lightly).
+DexQuery.049.bmp	coef_frict.bmp	TASK PREVIEW (2/4): (Don't start!)\nSqueeze according to the instructions that you will receive (firmly, moderately, lightly).
 DexQuery.050.bmp	MvToBlkV.bmp	TASK PREVIEW (2/4): (Don't start!)\nYou will move to the blinking target.
 DexQuery.051.bmp	MvToBlkH.bmp	TASK PREVIEW (2/5): (Don't start!)\nYou will place the manipulandum to the right of the blinking target.
 DexQuery.052.bmp	MvToBlkV.bmp	TASK PREVIEW (2/5): (Don't start!)\nYou will place the manipulandum to the right of the blinking target.
-DexQuery.053.bmp	MvToBlkH.bmp	TASK PREVIEW (2/6): (Don't start!)\nTo start; you will move to the target that is blinking.
-DexQuery.054.bmp	MvToBlkV.bmp	TASK PREVIEW (2/6): (Don't start!)\nTo start; you will move to the target that is blinking.
+DexQuery.053.bmp	MvToBlkH.bmp	TASK PREVIEW (2/6): (Don't start!)\nTo start, you will move to the target that is blinking.
+DexQuery.054.bmp	MvToBlkV.bmp	TASK PREVIEW (2/6): (Don't start!)\nTo start, you will move to the target that is blinking.
 DexQuery.055.bmp	Collision.bmp	TASK PREVIEW (3/3): (Don't start!)\nYou will then tap up or down according to the beeps and targets and return to the center.
-DexQuery.056.bmp	coef_frict_osc.bmp	TASK PREVIEW (3/4): (Don't start!)\nWhen you hear the beep; rub the fingers up and down on the manipulandum.
-DexQuery.057.bmp	OscillateV.bmp	TASK PREVIEW (3/4): (Don't start!)\nYou will then oscillate between targets; one full cycle per beep.
+DexQuery.056.bmp	coef_frict_osc.bmp	TASK PREVIEW (3/4): (Don't start!)\nWhen you hear the beep, rub the fingers up and down on the manipulandum.
+DexQuery.057.bmp	OscillateV.bmp	TASK PREVIEW (3/4): (Don't start!)\nYou will then oscillate between targets, one full cycle per beep.
 DexQuery.058.bmp	TargetedH.bmp	TASK PREVIEW (3/5): (Don't start!)\nYou will move quickly and accurately to the right of each lighted target.
 DexQuery.059.bmp	TargetedV.bmp	TASK PREVIEW (3/5): (Don't start!)\nYou will move quickly and accurately to the right of each lighted target.
 DexQuery.060.bmp	MvToBlkH.bmp	TASK PREVIEW (3/6): (Don't start!)\nPlace the manipulandum to the right of the target box and align the thumb with each target.
 DexQuery.061.bmp	MvToBlkV.bmp	TASK PREVIEW (3/6): (Don't start!)\nPlace the manipulandum to the right of the target mast and align the thumb with each target.
-DexQuery.062.bmp	OscillateV.bmp	TASK PREVIEW (4/4): (Don't start!)\nWhen the beeps will stop; you will continue to oscillate.
+DexQuery.062.bmp	OscillateV.bmp	TASK PREVIEW (4/4): (Don't start!)\nWhen the beeps will stop, you will continue to oscillate.
 DexQuery.063.bmp	rub.bmp	TASK PREVIEW (4/4): (Don't start!)\nYou will rub for 15 seconds. Move from center to edge and back. Try to maintain pinch force.
 DexQuery.064.bmp	TargetedH.bmp	TASK PREVIEW (4/5): (Don't start!)\nTargets will be one of the 4 currently lit targets.
 DexQuery.065.bmp	TargetedV.bmp	TASK PREVIEW (4/5): (Don't start!)\nTargets will be one of the 4 currently lit targets.
-DexQuery.066.bmp	DiscreteH.bmp	TASK PREVIEW (4/6): (Don't start!)\nOn each beep; you will move quickly and accurately to the other lit target.
-DexQuery.067.bmp	DiscreteV.bmp	TASK PREVIEW (4/6): (Don't start!)\nOn each beep; you will move quickly and accurately to the other lit target.
+DexQuery.066.bmp	DiscreteH.bmp	TASK PREVIEW (4/6): (Don't start!)\nOn each beep, you will move quickly and accurately to the other lit target.
+DexQuery.067.bmp	DiscreteV.bmp	TASK PREVIEW (4/6): (Don't start!)\nOn each beep, you will move quickly and accurately to the other lit target.
 DexQuery.068.bmp	MvToBlkH.bmp	TASK PREVIEW (5/5): (Don't start!)\nBe sure to hold the manipuladum upright and to the right of each target.
 DexQuery.069.bmp	MvToBlkV.bmp	TASK PREVIEW (5/5): (Don't start!)\nBe sure to hold the manipuladum upright and to the right of each target.
-DexQuery.070.bmp	EyesOpenClosed.bmp	TASK PREVIEW (5/6): (Don't start!)\nBefore each; you will be instructed to perform the movements with your eyes OPEN or CLOSED.
+DexQuery.070.bmp	EyesOpenClosed.bmp	TASK PREVIEW (5/6): (Don't start!)\nBefore each, you will be instructed to perform the movements with your eyes OPEN or CLOSED.
 DexQuery.071.bmp	alert.bmp	TASK PREVIEW (6/6): (Don't start!)\nRemember to wait for each beep and come to a full stop at each target.
 DexQuery.072.bmp	BeltsSeated.bmp	Take a seat. Attach the waist and shoulder straps and attach the wrist box to your right wrist.
-DexQuery.073.bmp	info.bmp	Test complete. If you did not hear the beeps; check the hardware and then repeat this task.
+DexQuery.073.bmp	info.bmp	Test complete. If you did not hear the beeps, check the hardware and then repeat this task.
 DexQuery.074.bmp	ok.bmp	Test ended.
 DexQuery.075.bmp	ok.bmp	Trial terminated successfully.\n\nPress <OK> to continue ...
 DexQuery.076.bmp	needpic.bmp	Verify that all targets are OFF.
@@ -210,7 +210,7 @@ DexState.079.bmp	working.bmp	Trial Started. Move to blinking target.
 DexState.080.bmp	working.bmp	Trial started ...
 DexState.081.bmp	ok.bmp	Visibility OK.
 
-DexAlert.001.bmp	alert.bmp	Coda misalignment detected!\n- Are any markers occluded?\nIf yes; correct and <Retry>.\nIf not; consult COL-CC.
+DexAlert.001.bmp	alert.bmp	Coda misalignment detected!\n- Are any markers occluded?\nIf yes, correct and <Retry>.\nIf not, consult COL-CC.
 DexAlert.002.bmp	alert.bmp	Collision forces outside range.
 DexAlert.003.bmp	alert.bmp	Error performing tracker alignment.\n-Target bar in the LEFT position?\n- Reference markers in view?
 DexAlert.004.bmp	alert.bmp	Markers not centered for CODA Unit #1.\n- Is the unit properly boresighted?\n- Are the box and bar markers visible?
