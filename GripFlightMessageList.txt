@@ -1,0 +1,238 @@
+Proof	Picture	Message
+Query	BeltsSupine.bmp	***  PREPARING TO START THE TASK  ***\nYou should be lying down with the restraint belts fastened.
+Query	BeltsSeated.bmp	***  PREPARING TO START THE TASK  ***\nYou should be sitting with the restraint belts fastened.
+Query	blank.bmp	*** Mass Selection Hardware Tests ***\nPress OK to start.
+Query	AllTgtOff.bmp	***** Target LED Hardware Tests  ****\nVerify that all targets are OFF.\nPress OK to continue.
+Query	REMOVE_HAND.bmp	*********     Slip Test     *********\nRelease manipulandum and press OK.
+Query	REMOVE_HAND.bmp	********* Centered Grip Test *********\nRelease manipulandum and press OK.
+Query	ok.bmp	Acquisition completed.
+Query	info.bmp	Alignment completed. Checking alignment validity for 20, 10, 5, 3, 2, 1 mm.
+Query	CalibrateSeated.bmp	Check Workspace Tablet installed for SEATED operation.
+Query	CalibrateSupine.bmp	Check Workspace Tablet installed for SUPINE operation.
+Query	ManipInChair.bmp	Check that the 'VISIBLE' status indicator on the Workspace Tablet screen is green.
+Query	headphones.bmp	Don the headphones and connect to the GRIP hardware.
+Query	CloseRetainer.bmp	Fold down the retainer and lock in place.
+Query	info.bmp	Force/torque baseline acquired.
+Query	info.bmp	If no other messages, a centered grip was detected.
+Query	confirm.bmp	If open, close the locker.
+Query	BeltsSupine.bmp	Lie down on the supine box, attach the waist, thigh and shoulder straps and attach the wrist box to your right wrist.
+Query	BarLeft.bmp	Make sure that the Target Mast\nis in the Standby (left side) position.
+Query	RetainerManip.bmp	Move the manipulandum to the retainer on the Workspace Tablet and lock in place (push pins).
+Query	Coef_frict.bmp	On this trial you will squeeze FIRMLY.
+Query	Coef_frict.bmp	On this trial you will squeeze LIGHTLY.
+Query	Coef_frict.bmp	On this trial you will squeeze MODERATELY.
+Query	ManipInChair.bmp	Place manipulandum in seat locker holder. Check that 'VISIBLE' status indicator on the Workspace Tablet screen is green .
+Query	TappingFolded.bmp	Place the Target Mast in Socket N (right side) with tapping surfaces folded.
+Query	TappingFolded.bmp	Place the Target Mast in Socket N (right side) with the tapping surfaces folded.
+Query	TappingDeployed.bmp	Place the Target Mast in Socket N (right side) with the tapping surfaces open.
+Query	BarLeft.bmp	Place the Target Mast in the Standby socket (left side) with tapping surfaces folded.
+Query	PlaceMass.bmp	Place the maniplandum and mass in the empty cradle and slide to lock. Remove hand and press <OK>.
+Query	HandsOffCradle.bmp	Place the manipulandum in any mass/cradle. Leave mass and and manipulandum in cradle and remove hand.
+Query	ManipInChair.bmp	Place the manipulandum in the holder as shown. Check that locker door is fully open.
+Query	RetainerManip.bmp	Position manipulandum in retainer, lock by pressing locking pins and remove fingers.
+Query	go.bmp	Ready to record for 30 seconds.\nPress <OK> to start.
+Query	go.bmp	Ready to record for 5 seconds.\nPress <OK> to start.
+Query	REMOVE_HAND.bmp	Remove hand for sensor offset measurement. Press <OK> to start.
+Query	REMOVE_HAND.bmp	Remove hand from manipulandum and press <OK>.
+Query	REMOVE_HAND.bmp	Remove hand from the manipulandum and press <OK> to start.
+Query	HandsOffCradle.bmp	Remove hand, leaving manipulandum and mass in cradle.
+Query	PlaceMassNoSlide.bmp	Remove manipulandum from retainer, place inside a mass in any cradle.
+Query	ok.bmp	Session completed.\nPress <OK> and go back to PODF.
+Query	InHand.bmp	TASK PREVIEW (1/3): (Don't start!)\nYou will first pick up the manipulandum at the center between thumb and forefinger.
+Query	InHand.bmp	TASK PREVIEW (1/4): (Don't start!)\nYou will first pick up the manipulandum at the center between thumb and forefinger.
+Query	coef_frict.bmp	TASK PREVIEW (1/4): (Don't start!)\nYou will first pinch the manipulandum at the center between thumb and forefinger.
+Query	InHand.bmp	TASK PREVIEW (1/5): (Don't start!)\nYou will first pick up the manipulandum at the center between thumb and forefinger.
+Query	InHand.bmp	TASK PREVIEW (1/6): (Don't start!)\nYou will first pick up the manipulandum at the center between thumb and forefinger.
+Query	MvToBlkV.bmp	TASK PREVIEW (2/3): (Don't start!)\nYou will move the manipulandum to the right of the blinking Target LED.
+Query	coef_frict.bmp	TASK PREVIEW (2/4): (Don't start!)\nSqueeze according to the instructions that you will receive (firmly, moderately, lightly).
+Query	MvToBlkV.bmp	TASK PREVIEW (2/4): (Don't start!)\nYou will move the manipulandum to the right of the blinking Target LED.
+Query	MvToBlkH.bmp	TASK PREVIEW (2/5): (Don't start!)\nYou will move the manipulandum to the right of the blinking Target LED.
+Query	MvToBlkV.bmp	TASK PREVIEW (2/5): (Don't start!)\nYou will move the manipulandum to the right of the blinking Target LED.
+Query	MvToBlkH.bmp	TASK PREVIEW (2/6): (Don't start!)\nTo start, you will move the manipulandum to the blinking Target LED.
+Query	MvToBlkV.bmp	TASK PREVIEW (2/6): (Don't start!)\nTo start, you will move the manipulandum to the blinking Target LED.
+Query	Collision.bmp	TASK PREVIEW (3/3): (Don't start!)\nYou will then tap up or down according to the beeps and targets, then return to the center.
+Query	coef_frict_osc.bmp	TASK PREVIEW (3/4): (Don't start!)\nWhen you hear the beep, rub the fingers up and down on the manipulandum.
+Query	OscillateV.bmp	TASK PREVIEW (3/4): (Don't start!)\nYou will then oscillate between the lit targets, one full cycle per beep.
+Query	TargetedH.bmp	TASK PREVIEW (3/5): (Don't start!)\nYou will move quickly and accurately to each lighted Target LED.
+Query	TargetedV.bmp	TASK PREVIEW (3/5): (Don't start!)\nYou will move quickly and accurately to each lighted Target LED.
+Query	MvToBlkV.bmp	TASK PREVIEW (3/6): (Don't start!)\nPlace manipulandum to the right of Target Mast and align center with each target.
+Query	MvToBlkH.bmp	TASK PREVIEW (3/6): (Don't start!)\nPlace manipulandum to the right of Workspace Tablet and align center with each target.
+Query	OscillateV.bmp	TASK PREVIEW (4/4): (Don't start!)\nWhen the beeps will stop, you should continue the oscillations.
+Query	rub.bmp	TASK PREVIEW (4/4): (Don't start!)\nYou will rub for 15 seconds. Move from center to edge and back. Try to maintain pinch force.
+Query	TargetedH.bmp	TASK PREVIEW (4/5): (Don't start!)\nThe targets will be one of the 4 currently lit Target LEDs.
+Query	TargetedV.bmp	TASK PREVIEW (4/5): (Don't start!)\nThe targets will be one of the 4 currently lit Target LEDs.
+Query	DiscreteH.bmp	TASK PREVIEW (4/6): (Don't start!)\nOn each beep, you will move quickly and accurately to the other lit Target LED.
+Query	DiscreteV.bmp	TASK PREVIEW (4/6): (Don't start!)\nOn each beep, you will move quickly and accurately to the other lit Target LED.
+Query	MvToBlkH.bmp	TASK PREVIEW (5/5): (Don't start!)\nBe sure to hold the manipuladum upright and to the right of each Target LED.
+Query	MvToBlkV.bmp	TASK PREVIEW (5/5): (Don't start!)\nBe sure to hold the manipuladum upright and to the right of each Target LED.
+Query	EyesOpenClosed.bmp	TASK PREVIEW (5/6): (Don't start!)\nBefore each trial, you will be instructed to keep your eyes OPEN or CLOSED.
+Query	info.bmp	TASK PREVIEW (6/6): (Don't start!)\nRemember to wait for each beep and come to a full stop at each Target LED.
+Query	touch.bmp	TASK PREVIEW: You will press, hold and release each indicated location on Touch Screen.
+Query	BeltsSeated.bmp	Take a seat in GRIP. Attach the restraint belts and attach the cuffs to your right wrist and elbow.
+Query	ok.bmp	Task completed.
+Query	confirm.bmp	Test complete. If you did not hear the beeps, check the hardware and then repeat this task.
+Query	ok.bmp	Test completed.
+Query	OpenRetainer.bmp	Unfold the retainer on the Workspace Tablet.
+Query	HoriTgts.bmp	Verify that Target LED is OFF again.\n(Horizontal Target 1)
+Query	HoriTgts.bmp	Verify that Target LED is OFF again.\n(Horizontal Target 10)
+Query	HoriTgts.bmp	Verify that Target LED is OFF again.\n(Horizontal Target 2)
+Query	HoriTgts.bmp	Verify that Target LED is OFF again.\n(Horizontal Target 3)
+Query	HoriTgts.bmp	Verify that Target LED is OFF again.\n(Horizontal Target 4)
+Query	HoriTgts.bmp	Verify that Target LED is OFF again.\n(Horizontal Target 5)
+Query	HoriTgts.bmp	Verify that Target LED is OFF again.\n(Horizontal Target 6)
+Query	HoriTgts.bmp	Verify that Target LED is OFF again.\n(Horizontal Target 7)
+Query	HoriTgts.bmp	Verify that Target LED is OFF again.\n(Horizontal Target 8)
+Query	HoriTgts.bmp	Verify that Target LED is OFF again.\n(Horizontal Target 9)
+Query	HoriTgts.bmp	Verify that Target LED is ON.\n(Horizontal Target 1)
+Query	HoriTgts.bmp	Verify that Target LED is ON.\n(Horizontal Target 10)
+Query	HoriTgts.bmp	Verify that Target LED is ON.\n(Horizontal Target 2)
+Query	HoriTgts.bmp	Verify that Target LED is ON.\n(Horizontal Target 3)
+Query	HoriTgts.bmp	Verify that Target LED is ON.\n(Horizontal Target 4)
+Query	HoriTgts.bmp	Verify that Target LED is ON.\n(Horizontal Target 5)
+Query	HoriTgts.bmp	Verify that Target LED is ON.\n(Horizontal Target 6)
+Query	HoriTgts.bmp	Verify that Target LED is ON.\n(Horizontal Target 7)
+Query	HoriTgts.bmp	Verify that Target LED is ON.\n(Horizontal Target 8)
+Query	HoriTgts.bmp	Verify that Target LED is ON.\n(Horizontal Target 9)
+Query	VertTgts.bmp	Verify that Target LED is ON.\n(Vertical Target 1)
+Query	VertTgts.bmp	Verify that Target LED is ON.\n(Vertical Target 10)
+Query	VertTgts.bmp	Verify that Target LED is ON.\n(Vertical Target 11)
+Query	VertTgts.bmp	Verify that Target LED is ON.\n(Vertical Target 12)
+Query	VertTgts.bmp	Verify that Target LED is ON.\n(Vertical Target 13)
+Query	VertTgts.bmp	Verify that Target LED is ON.\n(Vertical Target 2)
+Query	VertTgts.bmp	Verify that Target LED is ON.\n(Vertical Target 3)
+Query	VertTgts.bmp	Verify that Target LED is ON.\n(Vertical Target 4)
+Query	VertTgts.bmp	Verify that Target LED is ON.\n(Vertical Target 5)
+Query	VertTgts.bmp	Verify that Target LED is ON.\n(Vertical Target 6)
+Query	VertTgts.bmp	Verify that Target LED is ON.\n(Vertical Target 7)
+Query	VertTgts.bmp	Verify that Target LED is ON.\n(Vertical Target 8)
+Query	VertTgts.bmp	Verify that Target LED is ON.\n(Vertical Target 9)
+Query	AllTgtOn.bmp	Verify that all Target LEDs are ON.
+Query	VertTgts.bmp	Verify that target is OFF again.\n(Vertical Target 1)
+Query	VertTgts.bmp	Verify that target is OFF again.\n(Vertical Target 10)
+Query	VertTgts.bmp	Verify that target is OFF again.\n(Vertical Target 11)
+Query	VertTgts.bmp	Verify that target is OFF again.\n(Vertical Target 12)
+Query	VertTgts.bmp	Verify that target is OFF again.\n(Vertical Target 13)
+Query	VertTgts.bmp	Verify that target is OFF again.\n(Vertical Target 2)
+Query	VertTgts.bmp	Verify that target is OFF again.\n(Vertical Target 3)
+Query	VertTgts.bmp	Verify that target is OFF again.\n(Vertical Target 4)
+Query	VertTgts.bmp	Verify that target is OFF again.\n(Vertical Target 5)
+Query	VertTgts.bmp	Verify that target is OFF again.\n(Vertical Target 6)
+Query	VertTgts.bmp	Verify that target is OFF again.\n(Vertical Target 7)
+Query	VertTgts.bmp	Verify that target is OFF again.\n(Vertical Target 8)
+Query	VertTgts.bmp	Verify that target is OFF again.\n(Vertical Target 9)
+Query	confirm.bmp	You should have the heaviest mass in your hand. Notify COL-CC if it does not appear to have a GREATER inertia than the previous.
+Query	confirm.bmp	You should have the lightest mass in your hand. Notify COL-CC if it does not appear to have a LOWER inertia than the previous.
+Query	confirm.bmp	You should have the lightest mass in your hand. Shake it a bit to get a feel for its inertia.
+Query	confirm.bmp	You should have the medium mass in your hand. Notify COL-CC if it does not appear to have a GREATER inertia than the previous.
+Query	EyesClosed.bmp	You will perform the next set of discrete movements with eyes CLOSED. (But don't close them yet!).
+Query	Eyesopen.bmp	You will perform the next set of discrete movements with eyes OPEN.
+
+State	blank.bmp	
+State	volume.bmp	A series of beeps is being played for 10 seconds. Adjust the audio control until you hear them clearly.
+State	working.bmp	Acquiring ...
+State	wait.bmp	Acquiring baseline ...
+State	ok.bmp	Analysis completed.
+State	EyesClosed.bmp	CLOSE your eyes and start point-to-point movements.
+State	wait.bmp	Checking collision forces ...
+State	wait.bmp	Checking data ...
+State	working.bmp	Checking data ...
+State	wait.bmp	Checking field of view ...
+State	wait.bmp	Checking for movement ...
+State	wait.bmp	Checking for number of movements ...
+State	wait.bmp	Checking hardware configuration ...
+State	wait.bmp	Checking number of Oscillations ...
+State	wait.bmp	Checking tracker alignment ...
+State	wait.bmp	Checking tracker placement ...
+State	wait.bmp	Checking visibility ...
+State	PrgBarF.bmp	Completed.
+State	working.bmp	Continue oscillating movements.\nMaintain the same rhythm.
+State	rub.bmp	Continue to squeeze FIRMLY and rub up and down for 15 seconds.
+State	rub.bmp	Continue to squeeze LIGHTLY and rub up and down for 15 seconds.
+State	rub.bmp	Continue to squeeze MODERATELY and rub up and down for 15 seconds.
+State	ok.bmp	Force offsets nullified.
+State	PrgBar2.bmp	Keep rubbing. Need more slips.
+State	PrgBar4.bmp	Keep rubbing. Need more slips.
+State	PrgBar6.bmp	Keep rubbing. Need more slips.
+State	PrgBar8.bmp	Keep rubbing. Need more slips.
+State	PrgBarF.bmp	Keep rubbing. Need more slips.
+State	working.bmp	Maintian grip.
+State	working.bmp	Move quickly to each lighted target. Don't start early. Stop at each target.
+State	working.bmp	Move to blinking target.
+State	MvToBlkH.bmp	Move to blinking target.\n(Horizontal Target 1)
+State	MvToBlkH.bmp	Move to blinking target.\n(Horizontal Target 10)
+State	MvToBlkH.bmp	Move to blinking target.\n(Horizontal Target 2)
+State	MvToBlkH.bmp	Move to blinking target.\n(Horizontal Target 3)
+State	MvToBlkH.bmp	Move to blinking target.\n(Horizontal Target 4)
+State	MvToBlkH.bmp	Move to blinking target.\n(Horizontal Target 5)
+State	MvToBlkH.bmp	Move to blinking target.\n(Horizontal Target 6)
+State	MvToBlkH.bmp	Move to blinking target.\n(Horizontal Target 7)
+State	MvToBlkH.bmp	Move to blinking target.\n(Horizontal Target 8)
+State	MvToBlkH.bmp	Move to blinking target.\n(Horizontal Target 9)
+State	MvToBlkV.bmp	Move to blinking target.\n(Vertical Target 1)
+State	MvToBlkV.bmp	Move to blinking target.\n(Vertical Target 10)
+State	MvToBlkV.bmp	Move to blinking target.\n(Vertical Target 11)
+State	MvToBlkV.bmp	Move to blinking target.\n(Vertical Target 12)
+State	MvToBlkV.bmp	Move to blinking target.\n(Vertical Target 13)
+State	MvToBlkV.bmp	Move to blinking target.\n(Vertical Target 2)
+State	MvToBlkV.bmp	Move to blinking target.\n(Vertical Target 3)
+State	MvToBlkV.bmp	Move to blinking target.\n(Vertical Target 4)
+State	MvToBlkV.bmp	Move to blinking target.\n(Vertical Target 5)
+State	MvToBlkV.bmp	Move to blinking target.\n(Vertical Target 6)
+State	MvToBlkV.bmp	Move to blinking target.\n(Vertical Target 7)
+State	MvToBlkV.bmp	Move to blinking target.\n(Vertical Target 8)
+State	MvToBlkV.bmp	Move to blinking target.\n(Vertical Target 9)
+State	WaitSubjectReady.bmp	Now pinch in the center until the desired force is achieved (see LEDs).
+State	WaitSubjectReady.bmp	Now pull until slip.
+State	wait.bmp	Nullifying force offsets. Please wait.
+State	wait.bmp	Performing alignment ...
+State	working.bmp	Pick up the manipulandum with the mass. Adjust until the grip is centered.
+State	WaitSubjectReady.bmp	Pinch away from the center until the desired force is achieved. (Watch blinking Target LED.)
+State	Coef_frict.bmp	Pinch the manipulandum FIRMLY at the center between thumb and forefinger.
+State	Coef_frict.bmp	Pinch the manipulandum LIGHTLY at the center between thumb and forefinger.
+State	Coef_frict.bmp	Pinch the manipulandum MODERATELY at the center between thumb and forefinger.
+State	wait.bmp	Preparing for acquisition.
+State	wait.bmp	Processing data ...
+State	wait.bmp	Saving data ...
+State	working.bmp	Start oscillating movements.\nOne cycle per beep.
+State	Eyesopen.bmp	Start point-to-point movements with eyes OPEN.
+State	working.bmp	Tap upward or downward according to the beep and the lighted Target LEDs.
+State	ok.bmp	Visibility OK.
+
+Alert	alert.bmp	Coda misalignment detected!\n- Are reference markers in view?\nCorrect and <Retry> or call COL-CC.
+Alert	alert.bmp	Collision forces outside range. Press <Retry> to repeat (once or twice) or call COL-CC.
+Alert	alert.bmp	Misalignment of manipulandum markers\n > 10mm.
+Alert	info.bmp	Misalignment of manipulandum markers\n > 1mm.
+Alert	alert.bmp	Misalignment of manipulandum markers\n > 20mm.
+Alert	info.bmp	Misalignment of manipulandum markers\n > 2mm.
+Alert	info.bmp	Misalignment of manipulandum markers\n > 3mm.
+Alert	info.bmp	Misalignment of manipulandum markers\n > 5mm.
+Alert	alert.bmp	Misalignment of reference markers\n > 10mm.
+Alert	info.bmp	Misalignment of reference markers\n > 1mm.
+Alert	alert.bmp	Misalignment of reference markers\n > 20mm.
+Alert	info.bmp	Misalignment of reference markers\n > 2mm.
+Alert	info.bmp	Misalignment of reference markers\n > 3mm.
+Alert	info.bmp	Misalignment of reference markers\n > 5mm.
+Alert	alert.bmp	Movement amplitude out of range. Press <Retry> to repeat (once or twice) or call COL-CC.
+Alert	alert.bmp	No grip detected.
+Alert	alert.bmp	No slip detected.
+Alert	alert.bmp	Not as many movements as we expected. Press <Retry> to repeat (once or twice) or call COL-CC.
+Alert	alert.bmp	Number of oscillations out of range. Press <Retry> to repeat (once or twice) or call COL-CC.
+Alert	CalibrateSeated.bmp	Placement error - Tracker Camera 1\n- Check configured for SEATED\n- Check camera placement\nCorrect and <Retry> or call COL-CC.
+Alert	CalibrateSupine.bmp	Placement error - Tracker Camera 1\n- Check configured for SUPINE\n- Check camera placement\nCorrect and <Retry> or call COL-CC.
+Alert	CalibrateSeated.bmp	Placement error - Tracker Camera 2\n- Check configured for SEATED\n- Check camera placement\nCorrect and <Retry> or call COL-CC.
+Alert	CalibrateSupine.bmp	Placement error - Tracker Camera 2\n- Check configured for SUPINE\n- Check camera placement\nCorrect and <Retry> or call COL-CC.
+Alert	TakeMass.bmp	Put mass in cradle X and pick up mass from cradle Y.
+Alert	alert.bmp	Too long to reach blinking Target LED.\nPress <Retry> to try again.
+Alert	alert.bmp	Tracker Camera misalignment detected!\n- Check reference markers in view.\nCorrect and <Retry> or call COL-CC.
+Alert	alert.bmp	Tracker alignment error.\n- Check target bar on LEFT.\n- Check reference markers in view.\nCorrect and <Retry> or call COL-CC.
+Alert	alert.bmp	Tracking Camera #1 off center.\n- Check boresighting.\n- Check reference markers in view.\nCorrect and <Retry> or call COL-CC.
+Alert	alert.bmp	Tracking Camera #2 off center.\n- Check boresighting.\n- Check reference markers in view.\nCorrect and <Retry> or call COL-CC.
+Alert	CalibrateSeated.bmp	Unexpected Configuration.\n- Check configured for SEATED.\nCorrect and <Retry> or call COL-CC.
+Alert	CalibrateSupine.bmp	Unexpected Configuration.\n- Check configured for SUPINE.\nCorrect and <Retry> or call COL-CC.
+Alert	HdwConfD.bmp	Unexpected Configuration\n- Check configured for SEATED.\n- Check target mast on LEFT.\n- Check reference markers visible.
+Alert	HdwConfD.bmp	Unexpected Configuration\n- Check configured for SEATED.\n- Check target mast on RIGHT.\n- Check reference markers visible.
+Alert	CalibrateSeated.bmp	Unexpected Configuration\n- Check configured for SEATED.\nCorrect and <Retry> or call COL-CC.
+Alert	HdwConfB.bmp	Unexpected Configuration\n- Check configured for SUPINE.\n- Check target mast on LEFT.\n- Check reference markers visible.
+Alert	HdwConfB.bmp	Unexpected Configuration\n- Check configured for SUPINE.\n- Check target mast on RIGHT.\n- Check reference markers visible.\n
+Alert	CalibrateSupine.bmp	Unexpected Configuration\n- Check configured for SUPINE.\nCorrect and <Retry> or call COL-CC.
+
